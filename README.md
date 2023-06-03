@@ -12,8 +12,6 @@ I used Visual Studio with C++ modules installed to create this program
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
 - [Microsoft C++ documentation](https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170)
 - [C++ documentation](https://cplusplus.com/doc/)
 
